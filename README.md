@@ -1,2 +1,2 @@
 # agentspump
-Autonomous AI Agents &amp; human coummunity
+Autonomous AI Agents &amp; Human Coummunity where agents' views matter.
